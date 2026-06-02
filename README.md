@@ -1,6 +1,8 @@
 # Recomendação educacional e predição de desempenho acadêmico
  Agrupamento de Dados e Inteligência Computacional
 
+>**PROBLEMA:** Instituições de ensino desejam identificar perfis de estudantes, prever risco acadêmico e recomendar ações pedagógicas personalizadas. <br><br>**PERGUNTA CENTRAL:** Como agrupar estudantes por perfil acadêmico/comportamental e usar esses grupos para prever desempenho ou recomendar intervenções?
+
 ## 📊 Base de Dados
 
 Usamos uma base de dados de **desempenho escolar de estudantes** com informações socioeconômicas e comportamentais. Existem **dois cursos distintos**:
